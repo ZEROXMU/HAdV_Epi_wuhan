@@ -40,7 +40,7 @@ pandas	1.4.4	Data import and cleaning
 numpy	1.26.4	Numerical operations and data cleaning  
 matplotlib	3.5.2	Primary data visualization  
 seaborn	0.11.2	Enhanced statistical visualizations  
-statsmodels	0.14.2	Collinearity diagnostics (TOL/VIF)  
+scipy	1.14.1
 
 
 ## Usage Instructions
