@@ -18,11 +18,9 @@ Restricted by Wuhan CDC Ethics Committee regulations;
 Protected under Personal Information Protection Law.
 
 ## File Structure
-├── data/                    # Study datasets
-│   ├── Figshare.xlsx
-├── code/
-│   ├── Figshare.ipynb  # Main analysis notebook
-└── README.md                # This file
+data: Figshare.xlsx
+code: Figshare.ipynb 
+README.md (This file)
 
 ## Software Environment
 ### Core Analysis Tools
